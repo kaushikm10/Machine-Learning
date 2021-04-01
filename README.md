@@ -3,6 +3,6 @@
 
 ## Datasets Link
 
-Content Based Filtering/Movie Recommender 
+Content Based Filtering 
 https://www.kaggle.com/kaushikmetha/imdb-movies
 
